@@ -1,3 +1,3 @@
 # url : https://www.toutiao.com/search/
-# spider url  image
-# and download_image image
+ spider url  image
+ download_image url and image
